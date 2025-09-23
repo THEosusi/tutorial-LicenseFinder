@@ -1,3 +1,8 @@
-LicenseFinder
+# Step 2: Install LicenseFinder
 
-Set up project for LicenseFinder
+Now that Ruby is installed, we can install LicenseFinder. It comes as a Ruby gem, so we install it with `gem`.
+
+## Install LicenseFinder
+
+```bash
+{{exec}} gem install license_finder
