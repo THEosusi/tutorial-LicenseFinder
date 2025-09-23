@@ -5,4 +5,5 @@ Now that Ruby is installed, we can install LicenseFinder. It comes as a Ruby gem
 ## Install LicenseFinder
 
 ```bash
-{{exec}} gem install license_finder
+gem install license_finder
+```{{exec}}
