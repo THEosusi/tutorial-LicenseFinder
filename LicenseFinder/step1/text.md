@@ -7,6 +7,8 @@ It is distributed as a Ruby gem, which means we need to have Ruby installed firs
 
 Run the following command to install Ruby (the full package) on your system:
 
-```bash
+<pre>
+<code class="language-bash" data-kc-click="true">
 sudo apt update && sudo apt install -y ruby-full
-```
+</code>
+</pre>
