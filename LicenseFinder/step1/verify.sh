@@ -1,9 +1,8 @@
 #!/bin/bash
 
-if command -v ruby >/dev/null 2>&1; then
+if command -v ruby >/dev/null 2>&1 && ruby -v >/dev/null 2>&1; then
   echo "Ruby is installed ✅"
-  exit 0  # Success: Ruby is installed
+  exit 0
 else
-  echo "Ruby is not installed ❌. Please install Ruby before proceeding."
-  exit 1  # Failure: Stay on this step
+  exit 1
 fi
