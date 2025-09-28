@@ -9,7 +9,7 @@ LicenseFinder can find all the software licenses for those dependencies. It scan
 We do this to stay out of legal trouble or to avoid costs that could be incurred by using a dependency that isn't free to use.
 Or using a dependency that we don't have the license to use.
 
-![Screenshot of LicenseFinder output](img.png)
+![Screenshot of man behind bars](../assets/jail.png)
 
 
 License Finder supports multiple package management tools like pip, npm, Bundler, maven etc. You can find the full list here:  
