@@ -5,6 +5,9 @@ However, if you've ever checked which dependencies rely on other dependencies, y
 
 <img src="../assets/maven_dependencies.png" width="600">
 
+An example of this is the [spring boot starter web dependency](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter)
+It has three other dependencies which all of them have different licenses.
+
 LicenseFinder can find all the software licenses for those dependencies. It scans your codebase, identifies what you're using, and spits out a report showing all the licenses hiding in there.
 
 We do this to stay out of legal trouble or to avoid costs that could be incurred by using a dependency that isn't free to use.
