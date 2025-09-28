@@ -17,8 +17,6 @@ Let’s install Maven now:
 sudo apt update && sudo apt install -y maven
 ```{{exec}}
 
-(You can optionally verify Maven with `mvn -v`.)
-
 ## Run LicenseFinder Again
 
 Now that Maven is installed, run LicenseFinder again:
@@ -26,6 +24,8 @@ Now that Maven is installed, run LicenseFinder again:
 ```bash
 license_finder
 ```{{exec}}
+
+(This can take a couple of seconds ~10-30).
 
 This time LicenseFinder should successfully scan the project’s dependencies and print a license report.
 
