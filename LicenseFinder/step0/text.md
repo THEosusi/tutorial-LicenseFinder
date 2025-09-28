@@ -1,6 +1,5 @@
 ## LicenseFinder: What It Is and Why Use It?
 
-So why do we need a tool like LicenseFinder?  
 If you're like me and have ever worked with a dependency management tool like Maven or npm, you know how easy it is to add dependencies to a project.  
 However, if you've ever checked which dependencies rely on other dependencies, you quickly realize that adding just one can pull in many more since one dependency can depend on multiple others.
 
