@@ -1,7 +1,7 @@
 #!/bin/bash
 # verify.sh for Step 3
 
-if [ -f pom.xml ]; then
+if [ -f "$PWD/pom.xml" ]; then
   echo "Project cloned"
   exit 0
 else
