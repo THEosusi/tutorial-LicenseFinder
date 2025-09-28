@@ -1,4 +1,4 @@
-# Introduction to LicenseFinder
+# Introduction to License handling
 
 Managing open-source dependencies is a crucial part of ensuring compliance and avoiding legal risks in software projects. As applications grow and rely on third-party libraries, it becomes increasingly important to track and verify the licenses associated with those dependencies.
 

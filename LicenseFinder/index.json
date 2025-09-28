@@ -10,7 +10,14 @@
     },
     "steps": [
       {
-        "title": "What are Dependency Licenses?",
+        "title": "What LicenseFinder is and why it's useful",
+        "text": "step0/text.md",
+        "foreground": "step0/foreground.sh",
+        "background": "step0/background.sh",
+        "verify": "step0/verify.sh"
+      },
+      {
+        "title": "Installing prerequisites",
         "text": "step1/text.md",
         "foreground": "step1/foreground.sh",
         "background": "step1/background.sh",
