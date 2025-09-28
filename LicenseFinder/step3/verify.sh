@@ -1,7 +1,7 @@
 #!/bin/bash
 # verify.sh for Step 3
 
-if [ -f "/root/simple-java-maven-app/pom.xml" ]; then
+if [ -f "/root/DD2443-Executable-Tutorial-Dependency-Example/pom.xml" ]; then
   echo "Project cloned"
   exit 0
 else

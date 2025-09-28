@@ -1,10 +1,12 @@
-## LicenseFinder: The Lowdown and Why You Should Even Care
+## LicenseFinder: What It Is and Why Use It?
 
-So why do we need a tool like LicenseFinder?  
 If you're like me and have ever worked with a dependency management tool like Maven or npm, you know how easy it is to add dependencies to a project.  
 However, if you've ever checked which dependencies rely on other dependencies, you quickly realize that adding just one can pull in many more since one dependency can depend on multiple others.
 
 <img src="../assets/maven_dependencies.png" width="600">
+
+An example of this is the [spring boot starter web dependency](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter)
+It has three other dependencies which all of them have different licenses.
 
 LicenseFinder can find all the software licenses for those dependencies. It scans your codebase, identifies what you're using, and spits out a report showing all the licenses hiding in there.
 
