@@ -13,13 +13,13 @@ This project is a small Java + Maven app with dependencies we can test LicenseFi
 ## Clone the repository
 
 ```bash
-git clone https://github.com/rifat4/DD2443-Executable-Tutorial-Dependency-Example
+git clone https://github.com/rifat4/DD2482-Executable-Tutorial-Python-Example.git
 ```{{exec}}
 
 Then change into the project directory:
 
 ```bash
-cd DD2443-Executable-Tutorial-Dependency-Example
+cd DD2482-Executable-Tutorial-Python-Example
 ```{{exec}}
 
 You are now almost able to run licensefinder.
