@@ -7,7 +7,7 @@ Let’s try running LicenseFinder right away in our sample project directory:
 We first have to build our project, in this example we just need to pull dependencies.
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```{{exec}}
 
 ## Run Licensefinder
