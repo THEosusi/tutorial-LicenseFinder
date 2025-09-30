@@ -1,5 +1,4 @@
 sleep 3
 source ~/.bashrc
-# pyenv install 3.10.13 > /tmp/pyenv-install
-# pyenv virtualenv 3.10.13 lf-env > /tmp/pyenv-create-env
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main && conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r && conda create -n py310 python=3.10.13 -y
 echo done > /tmp/background1
