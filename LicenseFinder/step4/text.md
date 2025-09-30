@@ -2,24 +2,17 @@
 
 Let’s try running LicenseFinder right away in our sample project directory:
 
-```bash
-license_finder
-```{{exec}}
+## Pull dependencies
 
-You’ll probably see an error because the project uses **Maven** and our environment doesn’t have Maven installed yet.  
-LicenseFinder needs the project’s package manager tools to be present in order to detect and scan dependencies.
-
-## Install Maven
-
-Let’s install Maven now:
+We first have to build our project, in this example we just need to pull dependencies.
 
 ```bash
-sudo apt update && sudo apt install -y maven
+pip install -r requirements
 ```{{exec}}
 
-## Run LicenseFinder Again
+## Run Licensefinder
 
-Now that Maven is installed, run LicenseFinder again:
+Run LicenseFinder:
 
 ```bash
 license_finder
@@ -27,7 +20,7 @@ license_finder
 
 (This can take a couple of seconds ~10-30).
 
-This time LicenseFinder should successfully scan the project’s dependencies and print a license report.
+
 
 
 
