@@ -38,6 +38,13 @@
         "verify": "step3/verify.sh"
       },
       {
+        "title": "Scan Dependencies and Generate Reports Using LicenseFinder",
+        "text": "step3.1/text.md",
+        "foreground": "step3/foreground.sh",
+        "background": "step3/background.sh",
+        "verify": "step3.1/verify.sh"
+      },
+      {
         "title": "Configure License Policies",
         "text": "step4/text.md",
         "foreground": "step4/foreground.sh",
