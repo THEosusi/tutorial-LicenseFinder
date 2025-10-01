@@ -22,4 +22,3 @@ Then change into the project directory:
 cd DD2482-Executable-Tutorial-Python-Example
 ```{{exec}}
 
-You are now almost able to run licensefinder.
