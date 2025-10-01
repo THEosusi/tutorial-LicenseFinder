@@ -1,6 +1,8 @@
 #!/bin/bash
 # Verify step for 3.1
 
+echo "Hello from debug" > /tmp/verify_debug.txt
+
 CURRENT_ENV=$(conda info --envs 2>/dev/null | grep '\*' | awk '{print $1}')
 PYTHON_VERSION=$(python --version 2>&1 | awk '{print $2}')
 PIP_VERSION=$(pip --version 2>/dev/null | awk '{print $2}')
