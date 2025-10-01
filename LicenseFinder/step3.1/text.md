@@ -20,7 +20,7 @@ conda activate py310
 
 We also need a pip version that works with licensefinder
 ```bash
-pip install pip install pip==21.3.1
+pip install pip==21.3.1
 ```{{exec}}
 
 You are now almost able to run licensefinder.
