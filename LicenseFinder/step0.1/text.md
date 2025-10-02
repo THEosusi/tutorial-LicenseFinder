@@ -12,3 +12,4 @@ Furthermore, reports can be exported in text, CSV, JSON, HTML, and other formats
 In this tutorial, we will focus specifically on **license management** for Maven projects and learn how to use LicenseFinder.
 
 This is workflow of Lincensefinder
+<img src="../assets/LicenceFinder.png" width="600">

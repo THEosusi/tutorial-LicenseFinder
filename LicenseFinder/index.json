@@ -39,25 +39,37 @@
         "verify": "step3/verify.sh"
       },
       {
-        "title": "Scan Dependencies and Generate Reports Using LicenseFinder",
+        "title": "Clone a Sample Project",
         "text": "step3.1/text.md",
         "foreground": "step3/foreground.sh",
         "background": "step3/background.sh",
         "verify": "step3.1/verify.sh"
       },
       {
-        "title": "Configure License Policies",
+        "title": "Run LicenseFinder",
         "text": "step4/text.md",
         "foreground": "step4/foreground.sh",
         "background": "step4/background.sh",
         "verify": "step4/verify.sh"
       },
       {
-        "title": "For ore complex dependency licenses problem",
+        "title": "Approving licenses",
         "text": "step5/text.md",
         "foreground": "step5/foreground.sh",
         "background": "step5/background.sh",
         "verify": "step5/verify.sh"
+      }
+      ,
+      {
+        "title": "Approving licenses",
+        "text": "step5/text.md",
+        "foreground": "step5/foreground.sh",
+        "background": "step5/background.sh",
+        "verify": "step5/verify.sh"
+      },
+      {
+        "title": "Appendix: Other Dependency License Management Tools",
+        "text": "step6/text.md"
       }
 
     ],

@@ -41,3 +41,5 @@ Finally, License Finder can be integrated into your CI/CD pipeline to prevent de
 ---
 
 Thanks for taking the time to go through the License Finder tutorial.
+
+The final page includes an appendix introducing other Dependency License Management tools, if you're interested, please take a look.

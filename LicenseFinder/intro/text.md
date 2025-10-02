@@ -5,8 +5,10 @@ Managing open-source dependencies is a crucial part of ensuring compliance and a
 **LicenseFinder** is a powerful open-source tool that helps developers and organizations automatically identify, review, and report the licenses of the packages used in their projects. It integrates seamlessly into your development workflow, making license compliance checks simple and efficient.
 
 In this tutorial, you'll learn:
-- What LicenseFinder is and why it's useful
+- Dependency License Management and DevOps
+- What is LicenseFinder?
 - How to install and configure it in your project
 - How to generate license reports and ensure compliance
+- Appendix: Other Dependency License Management Tools
 
 By the end of this guide, you’ll have a solid understanding of how to use LicenseFinder to keep your project’s licensing information clear and under control.
