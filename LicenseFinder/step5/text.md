@@ -22,7 +22,7 @@ license_finder approvals add click --why "Researched and confirmed it is MIT lic
 ```{{exec}}
 
 Some licenses, such as GPL, have more restrictive terms. If you use GPL, your source code must be open source if you plan to redistribute it. To flag this, we can mark GPL as a restricted license:
-We dont have any depedencies with GPL licenses in this project, so lets try with New BSD instead.
+We donot have any depedencies with GPL licenses in this project, so let's try with New BSD instead.
 
 ```bash
 license_finder restricted_licenses add "New BSD"
@@ -36,10 +36,10 @@ license_finder
 
 As you can see the New BSD dependency is now under restricted licenses list.
 
-Finally, License Finder can be integrated into your CI/CD pipeline to prevent deployments if any licensing issues are detected.
+Finally, LicenseFinder can be integrated into your CI/CD pipeline to prevent deployments if any licensing issues are detected.
 
 ---
 
-Thanks for taking the time to go through the License Finder tutorial.
+Thanks for taking the time to go through the LicenseFinder tutorial.
 
 The final page includes an appendix introducing other Dependency License Management tools, if you're interested, please take a look.

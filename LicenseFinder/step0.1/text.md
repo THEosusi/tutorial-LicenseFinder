@@ -1,8 +1,8 @@
-## What is LicenseFinder?
+## What is LicenseFinder
 
-LicenseFinder is an open-source tool, which can find all the software licenses for dependencies. It scans your project’s dependency definitions, identifies what licens you're using, and spits out a report showing all the licenses hiding in there.
+LicenseFinder is an open-source tool, which can find all the software licenses for dependencies. It scans your project’s dependency definitions, identifies what license you're using, and spits out a report showing all the licenses hiding in there.
 
-License Finder supports multiple package management tools like pip, npm, Bundler, maven etc. You can find the full list here:  
+LicenseFinder supports multiple package management tools like pip, npm, Bundler, maven etc. You can find the full list here:  
 https://github.com/pivotal/LicenseFinder
 
 LicenseFinder also offers the advantage of easy integration into CI/CD pipelines.  
@@ -11,5 +11,5 @@ Furthermore, reports can be exported in text, CSV, JSON, HTML, and other formats
 
 In this tutorial, we will focus specifically on **license management** for Maven projects and learn how to use LicenseFinder.
 
-This is workflow of Lincensefinder
+This is the workflow of LicenseFinder
 <img src="../assets/LicenceFinder.png" width="600">

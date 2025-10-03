@@ -27,36 +27,24 @@
       {
         "title": "Introduce LicenseFinder and set up project",
         "text": "step2/text.md",
-        "foreground": "step2/foreground.sh",
-        "background": "step2/background.sh",
         "verify": "step2/verify.sh"
       },
       {
         "title": "Scan Dependencies and Generate Reports Using LicenseFinder",
         "text": "step3/text.md",
-        "foreground": "step3/foreground.sh",
-        "background": "step3/background.sh",
         "verify": "step3/verify.sh"
       },
       {
         "title": "Clone a Sample Project",
-        "text": "step3.1/text.md",
-        "foreground": "step3/foreground.sh",
-        "background": "step3/background.sh",
-        "verify": "step3.1/verify.sh"
+        "text": "step3.1/text.md"
       },
       {
         "title": "Run LicenseFinder",
-        "text": "step4/text.md",
-        "foreground": "step4/foreground.sh",
-        "background": "step4/background.sh",
-        "verify": "step4/verify.sh"
+        "text": "step4/text.md"
       },
       {
         "title": "Approving licenses",
-        "text": "step5/text.md",
-        "foreground": "step5/foreground.sh",
-        "background": "step5/background.sh"
+        "text": "step5/text.md"
       },
       {
         "title": "Appendix: Other Dependency License Management Tools",

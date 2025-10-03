@@ -1,7 +1,7 @@
 # Step 3: Setup python environment and pip
 
-Licensefinder need a deprecated packages from older python and pip versions to run.
-So we need to setup a python environment that can run licensefinder.
+LicenseFinder needs deprecated packages from older python and pip versions to run.
+So we need to setup a python environment that can run LicenseFinder.
 
 This accepts conda tos and also creates a new environment using python version 3.10.13
 ```bash
