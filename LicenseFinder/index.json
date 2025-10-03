@@ -56,16 +56,7 @@
         "title": "Approving licenses",
         "text": "step5/text.md",
         "foreground": "step5/foreground.sh",
-        "background": "step5/background.sh",
-        "verify": "step5/verify.sh"
-      }
-      ,
-      {
-        "title": "Approving licenses",
-        "text": "step5/text.md",
-        "foreground": "step5/foreground.sh",
-        "background": "step5/background.sh",
-        "verify": "step5/verify.sh"
+        "background": "step5/background.sh"
       },
       {
         "title": "Appendix: Other Dependency License Management Tools",
