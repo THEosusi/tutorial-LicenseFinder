@@ -1,1 +1,2 @@
-stat /tmp/step2
+#!/bin/bash
+# verify.sh for Step 5
