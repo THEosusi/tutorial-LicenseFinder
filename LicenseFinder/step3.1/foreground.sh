@@ -1,7 +1,1 @@
-"Project cloned"
-"     _______"
-"    /       \\"
-"   |  CODE   |"
-"    \\_______/"
-"     |     |"
-"     |     |   🧬 DNA of your dependencies is being replicated..."
+cat /tmp/ascii_assets/project_cloned.txt

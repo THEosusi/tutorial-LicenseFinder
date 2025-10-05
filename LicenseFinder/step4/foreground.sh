@@ -1,5 +1,1 @@
-"     ___       ___"
-"    (o o)     (o o)"
-"ooO--(_)--Ooo-(_)--Ooo"
-"🐍 Python slithers in..."
-
+cat /tmp/ascii_assets/python.txt

@@ -1,7 +1,1 @@
-"  ╔════════════════════════════════════╗"
-"  ║   LicenseFinder Installation 🔍    ║"
-"  ╚════════════════════════════════════╝"
-"     [✔] Gem fetched"
-"     [✔] Dependencies resolved"
-"     [✔] LicenseFinder ready to scan"
-"✨ Your compliance scanner is now armed!"
+cat /tmp/ascii_assets/license_finder.txt
