@@ -12,20 +12,9 @@ pip install -r requirements.txt
 
 ## Run Licensefinder
 
-Run LicenseFinder:
-
 ```bash
 license_finder
 ```{{exec}}
 
 (This can take a couple of seconds ~10-30).
 
-
-
-
-
-## Leaving this in so I dont forget about the outline
-
-Please set it up so that about two errors appear here, paste the actual software license URL, and let us fix it to ensure it's okay.
-
-So, create a script that allows you to proceed to the next step if the answer is correct.
