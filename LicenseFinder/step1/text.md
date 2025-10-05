@@ -10,3 +10,5 @@ Run the following command to install Ruby (the full package) on your system:
 ```bash
 sudo apt update && sudo apt install -y ruby-full
 ```{{exec}}
+
+This can take 10-30 seconds.
