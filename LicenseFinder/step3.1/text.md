@@ -1,4 +1,4 @@
-# Step 3: Setup python environment and pip
+# Step 4: Setup python environment and pip
 
 Licensefinder need a deprecated packages from older python and pip versions to run.
 So we need to setup a python environment that can run licensefinder.
