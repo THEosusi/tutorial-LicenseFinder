@@ -1,6 +1,9 @@
-printf "     .     '     ,"
-printf "       _________"
-printf "    _ /_|_____|_\\ _"
-printf "      '. \\   / .'"
-printf "        '.\\ /.'"
-printf "          '.'     💎 Ruby is ready. Let the gems flow!"
+#!/bin/bash
+cat <<'EOF'
+     .     '     ,
+       _________
+    _ /_|_____|_\ _
+      '. \   / .'
+        '.\ /.'
+          '.'     💎 Ruby is ready. Let the gems flow!
+EOF
