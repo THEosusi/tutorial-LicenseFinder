@@ -1,19 +1,13 @@
-## LicenseFinder: What It Is and Why Use It?
+## Dependency License Management and DevOps
 
-If you're like me and have ever worked with a dependency management tool like Maven or npm, you know how easy it is to add dependencies to a project.  
+If you have ever worked with a dependency management tool like Maven or npm, you know how easy it is to add dependencies to a project.  
 However, if you've ever checked which dependencies rely on other dependencies, you quickly realize that adding just one can pull in many more since one dependency can depend on multiple others.
 
 <img src="../assets/maven_dependencies.png" width="600">
 
-An example of this is the [spring boot starter web dependency](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter)
-It has three other dependencies which all of them have different licenses.
+An example of this is the [Spring Boot Starter Web dependency](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter)
+It has three other dependencies, each with a different license.
 
-LicenseFinder can find all the software licenses for those dependencies. It scans your codebase, identifies what you're using, and spits out a report showing all the licenses hiding in there.
-
-We do this to stay out of legal trouble or to avoid costs that could be incurred by using a dependency that isn't free to use.
-Or using a dependency that we don't have the license to use.
-
-License Finder supports multiple package management tools like pip, npm, Bundler, maven etc. You can find the full list here:  
-https://github.com/pivotal/LicenseFinder
-
-For this tutorial, we're going to focus on managing software licenses using LicenseFinder in a Maven project.
+For example, when working at a company, unknowingly using libraries that are not licensed for commercial use can lead to legal risks and compliance violations. A ruling has actually been issued in the appellate court awarding approximately [€900,000 in damages against Orange](https://www.dlapiper.com/en/insights/publications/2024/03/wakeup-call-for-open-source-users-french-court-awards-damages-for-gpl-violations).
+This is why Dependency License Management is essential. This is not a standalone activity; it can be integrated into the CI/CD pipeline just like security checks and automated testing.  
+By doing so, companies can incorporate license management as part of DevOps, significantly reducing legal risks.
