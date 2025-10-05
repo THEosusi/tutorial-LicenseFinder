@@ -21,7 +21,7 @@
         "title": "Installing prerequisites",
         "text": "step1/text.md",
         "verify": "step1/verify.sh",
-        "code": "echo 'test!'"
+        "code": "echo 'test!' \n testsss"
       },
       {
         "title": "Introduce LicenseFinder and set up project",
