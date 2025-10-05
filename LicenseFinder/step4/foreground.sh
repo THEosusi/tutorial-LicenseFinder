@@ -1,5 +1,5 @@
-echo "     ___       ___"
-echo "    (o o)     (o o)"
-echo "ooO--(_)--Ooo-(_)--Ooo"
-echo "🐍 Python slithers in..."
+"     ___       ___"
+"    (o o)     (o o)"
+"ooO--(_)--Ooo-(_)--Ooo"
+"🐍 Python slithers in..."
 
