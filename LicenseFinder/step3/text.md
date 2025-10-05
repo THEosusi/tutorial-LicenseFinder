@@ -6,9 +6,9 @@ In a real scenario, this would be **your own project**.
 
 For this tutorial, we’ll use a public example project:
 
-- **Repo:** [DD2443-Executable-Tutorial-Dependency-Example](https://github.com/rifat4/DD2443-Executable-Tutorial-Dependency-Example)
+- **Repo:** [DD2482-Executable-Tutorial-Python-Example](https://github.com/rifat4/DD2482-Executable-Tutorial-Python-Example)
 
-This project is a small Java + Maven app with dependencies we can test LicenseFinder on.
+This project is just a project with python dependencies.
 
 ## Clone the repository
 
