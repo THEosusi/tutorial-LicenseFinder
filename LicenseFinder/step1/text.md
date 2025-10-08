@@ -1,7 +1,6 @@
 ## Step 1: Install Ruby
 
-LicenseFinder does not ship as a standalone executable.  
-It is distributed as a Ruby gem, which means we need to have Ruby installed first before we can install and run LicenseFinder.
+LicenseFinder does not ship as a standalone executable. It is distributed as a Ruby gem, which means we need to have Ruby installed first before we can install and run LicenseFinder.
 
 ### Install Ruby
 

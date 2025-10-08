@@ -9,7 +9,7 @@ So let's approve the licenses for MIT and BSD
 license_finder permitted_licenses add MIT BSD
 ```{{exec}}
 
-Once approved, these licenses will no longer be flagged by LicenseFinder as unapproved. You’ll notice that the list of `Dependencies that need approval` is now shorter:
+Once approved, these licenses will no longer be flagged by LicenseFinder as unapproved. You’ll notice that the list of `"Dependencies that need approval"` is now shorter:
 
 ```bash
 license_finder
@@ -21,7 +21,7 @@ For dependencies with unknown licenses, we can manually approve them after verif
 license_finder licenses add click "MIT"
 ```{{exec}}
 
-Then, you can see, we do not have `click` in the list of `Dependencies that need approval`. Because we've already approved MIT license.
+Then, you can see, we do not have `click` in the list of `"Dependencies that need approval"`. Because we've already approved MIT license.
 
 ```bash
 license_finder 
@@ -42,7 +42,7 @@ This ensures that even if a license is accidentally approved, it will still be l
 license_finder
 ```{{exec}}
 
-As you can see the New BSD dependency is now under the list of `Restricted dependencies`.
+As you can see the New BSD dependency is now under the list of `"Restricted dependencies"`.
 
 ## Generating  reports
 
@@ -53,9 +53,9 @@ If you're unsure whether to grant permission for a license on your own, send the
 license_finder report --format markdown --save report.md
 ```{{exec}}
 
-Under `~/DD2482-Executable-Tutorial-Python-Example`, you can see report.md, which is report about dependency license in this project. The contents are long and complicated, so you can simply send to people who know law very well, Then, entrust the work to them and seek their judgment.
+Under `~/DD2482-Executable-Tutorial-Python-Example`, you can see `report.md`, which is report about dependency license in this project. The contents are long and complicated, so you can simply send to people who know law very well, Then, entrust the work to them and seek their judgment.
 
----
+## Summary
 
 By approving and restricting licenses in this way, you can eliminate restricted dependencies.
 Once your project reaches this state, it can be considered free of licensing issues. Integrating these checks into your DevOps pipeline helps prevent the release of software that contains problematic licenses.
