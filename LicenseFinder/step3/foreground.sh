@@ -1,2 +1,2 @@
-clear
+reset
 cat /tmp/ascii_assets/license_finder.txt
