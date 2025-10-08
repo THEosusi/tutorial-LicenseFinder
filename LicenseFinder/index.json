@@ -24,19 +24,19 @@
         "background": "step1/background.sh"
       },
       {
-        "title": "Introduce LicenseFinder and set up project",
+        "title": "Installing LicenseFinder",
         "text": "step2/text.md",
         "verify": "step2/verify.sh",
         "foreground": "step2/foreground.sh"
       },
       {
-        "title": "Scan Dependencies and Generate Reports Using LicenseFinder",
+        "title": "Setup Environments",
         "text": "step3/text.md",
         "verify": "step3/verify.sh",
         "foreground": "step3/foreground.sh"
       },
       {
-        "title": "Clone a Sample Project",
+        "title": "Setup Environments",
         "text": "step3.1/text.md",
         "foreground": "step3.1/foreground.sh"
       },
@@ -46,7 +46,7 @@
         "foreground": "step4/foreground.sh"
       },
       {
-        "title": "Approving licenses",
+        "title": "Usage of LicenseFinder",
         "text": "step5/text.md"
       },
       {

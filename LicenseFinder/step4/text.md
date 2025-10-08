@@ -1,4 +1,4 @@
-# Step 4: Run LicenseFinder (and Install the Needed Package Manager)
+# Step 5: Run LicenseFinder (and Install the Needed Package Manager)
 
 Let’s try running LicenseFinder right away in our sample project directory:
 

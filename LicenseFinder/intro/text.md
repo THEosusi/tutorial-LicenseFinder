@@ -7,7 +7,7 @@ Managing dependency licenses is a crucial part of ensuring compliance and avoidi
 In this tutorial, you'll learn:
 - Dependency License Management and DevOps
 - What is LicenseFinder?
-- How to install and configure LicenseFinder in your project
+- How to install and set up LicenseFinder in your project
 - How to ensure compliance and generate license reports
 - Appendix: Other Dependency License Management Tools
 
