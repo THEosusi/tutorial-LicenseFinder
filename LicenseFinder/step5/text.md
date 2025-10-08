@@ -57,8 +57,7 @@ Under `~/DD2482-Executable-Tutorial-Python-Example`, you can see `report.md`, wh
 
 ## Summary
 
-By approving and restricting licenses in this way, you can eliminate restricted dependencies.
-Once your project reaches this state, it can be considered free of licensing issues. Integrating these checks into your DevOps pipeline helps prevent the release of software that contains problematic licenses.
+By approving all licenses that require approval, you ensure that no unapproved or restricted libraries are used in your project. Once your project reaches this state, it can be considered free of licensing issues, and integrating these checks into your DevOps pipeline helps prevent the release of software containing problematic licenses.
 
 
 Thanks for taking the time to go through the LicenseFinder tutorial.
