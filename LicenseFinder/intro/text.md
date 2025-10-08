@@ -1,8 +1,8 @@
 # Introduction to License Handling
 
-Managing dependency licenses is a crucial part of ensuring compliance and avoiding legal risks in software projects. As applications grow and rely on third-party libraries, it becomes increasingly important to track and verify the licenses associated with those dependencies.
+Managing dependency licenses is a crucial part of ensuring compliance and avoiding legal risks in software projects. As applications grow and rely on third-party libraries, it becomes increasingly important to track and verify the licenses associated with those dependencies. However, despite its importance, this process is often overlooked in DevOps environments.
 
-**LicenseFinder** is a powerful open-source tool that helps developers and organizations automatically identify, review, and report the licenses of the packages used in their projects. It integrates seamlessly into development workflows, making license compliance checks simple and efficient.
+**LicenseFinder** is a powerful open-source tool that helps developers and organizations automatically identify, review, and report the licenses of the packages used in their projects. It integrates seamlessly into existing pipeline, making license compliance checks simple and efficient.
 
 In this tutorial, you'll learn:
 - Dependency License Management and DevOps
