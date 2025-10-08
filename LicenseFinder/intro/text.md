@@ -15,8 +15,7 @@ This tutorial will cover the following sections:
 ### Learning outcomes
 
 - Understand what dependency licenses are and why managing them is important in DevOps.
-- Learn how to use LicenseFinder to identify and manage licenses.
-- Learn how to generate and interpret license compliance reports.
+- Learn how to use LicenseFinder to identify, manage, and generate reports for licenses.
 - Learn about additional tools for dependency license management.
 
-By the end of this guide, you will have a solid understanding of how to use LicenseFinder to keep your project’s licensing information clear and under control.
+By the end of this tutorial, you will have a solid understanding of how to use LicenseFinder to keep your project’s licensing information clear and under control.
