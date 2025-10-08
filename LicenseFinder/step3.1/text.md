@@ -18,9 +18,9 @@ And then we can load the environment
 conda activate py310
 ```{{exec}}
 
-We also need a pip version that works with licensefinder
+We also need a pip version that works with LicenseFinder
 ```bash
 pip install pip==21.3.1
 ```{{exec}}
 
-You are now almost able to run licensefinder.
+You are now almost able to run LicenseFinder.
