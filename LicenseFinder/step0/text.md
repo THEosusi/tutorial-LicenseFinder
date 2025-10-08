@@ -1,7 +1,6 @@
 ## Dependency License Management and DevOps
 
-If you have ever worked with a dependency management tool like Maven or npm, you know how easy it is to add dependencies to a project.
-A dependency is a piece of external code or a library that a project relies on to function properly.  
+If you have ever worked with a dependency management tool like Maven or npm, you know how easy it is to add dependencies to a project. A dependency is any external code or library that a project needs to work correctly. 
 
 However, if you've ever checked which dependencies rely on other dependencies, you quickly realize that adding just one can pull in many more since one dependency can depend on multiple others.
 
