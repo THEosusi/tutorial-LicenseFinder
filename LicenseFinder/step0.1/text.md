@@ -9,10 +9,11 @@ LicenseFinder also offers the advantage of easy integration into CI/CD pipelines
 It automatically performs license checks during builds and can flag unapproved licenses as errors. 
 Furthermore, reports can be exported in multiple formats such as text, CSV, JSON, and HTML, making them convenient for sharing with legal and compliance departments.  
 
-In this tutorial, we will focus specifically on **license management** for Maven projects and learn how to use LicenseFinder.
+In this tutorial, we will focus specifically on **license management** for Python projects and learn how to use LicenseFinder.
 
 The following diagram illustrates the LicenseFinder workflow:
 <img src="../assets/LicenceFinder.png" width="600">
+
 
 When LicenseFinder starts up, it first reads the files that define the project’s dependencies and collects all of them. It then organizes their license information into a list. Finally, it checks which licenses are permitted by comparing them against the approval list defined by the user.
 
